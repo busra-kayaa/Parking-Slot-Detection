@@ -1,4 +1,4 @@
-## 📌 **Parking Spot Detection System**  
+## 📌 **Parking Slot Detection System**  
 This project is designed to detect empty parking spots in parking areas. Using **Python** and **OpenCV**, it analyzes video streams to identify and differentiate between **occupied** and **vacant** spaces. The system marks parking spaces and monitors their status in **real-time**.
 
 ---
